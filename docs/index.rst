@@ -29,7 +29,7 @@ This approach will work fine, though it does not support rebalancing on
 failures.  See `Compatibility <compatibility.html>`_ for more details.
 
 Please note that the master branch may contain unreleased features. For release
-documentation, please see readthedocs and/or python's inline help.
+documentation, please see `releases <../releases>`_, `readthedocs <https://kafka-python.readthedocs.io/en/master/>`_, and/or python's inline help.
 
 >>> pip install kafka-python
 
